@@ -67,13 +67,19 @@ login-ui-vite/
 🔷 Smooth transitions using GPU transforms
 
 # 🖼️ Screenshots
-![Front Card](images/front.png)
+## Login UI Preview
 
-![Sign In](images/signin.png)
+## Front Card 
+<img src="assets/frontcard.png" width="450" />
 
-![Sign Up](images/signup.png)
+## Sign In
+<img src="assets/sign_in.png" width="450" />
 
-![Confirmation Stamp](images/confirmation.png)
+## Sign Up
+<img src="assets/sign_up.png" width="450" />
+
+## Confirmation Stamp
+<img src="assets/confirmation_stamp.png" width="450" />
 
 # 📜 License
 You are free to use, modify, and distribute this project.
