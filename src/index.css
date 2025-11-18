@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small helper overrides used by the component */
+html, body, #root {
+  height: 100%;
+}
+ 
